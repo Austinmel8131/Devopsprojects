@@ -59,7 +59,15 @@
 
 ![alt text](<Images/code after merge.png>)
 
+# full view of github repo https://github.com/Austinmel8131/ai-startup-transit
+![alt text](<Images/view of github repo.png>)
 
+# a view of all commits made 
+
+![alt text](<Images/view of commits made.png>)
+
+# a view of all branches created
+![alt text](<Images/view of all branches.png>)
 
 
 
