@@ -1,5 +1,8 @@
 # Basic Git Command project Github for a Startup company using different branch, creating branches and working on same index file simulteneously to update different codes
 
+# GitHub repo 
+https://github.com/Austinmel8131/ai-startup-website
+
 # Creating a Github repository
 ![alt text](<Images/creating github.png>)
 
